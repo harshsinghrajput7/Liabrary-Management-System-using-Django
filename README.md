@@ -50,11 +50,6 @@ python manage.py runserver
 - Regular users can search for books, view available books, and borrow or return books if logged in.
 
 
-## Screenshots
-
-https://github.com/nazil-the-professor/Liabrary-Management-System-using-Django-/raw/main/Captured/Captured.mp4
-
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.
