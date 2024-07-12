@@ -23,7 +23,7 @@ This project is a web-based Library Management System developed using Django, a 
 ## Installation
 
 1. Clone the repository:
-https://github.com/nazil-the-professor/Liabrary-Management-System-using-Django-.git
+https://github.com/harshsinghrajput7/Liabrary-Management-System-using-Django-.git
 
 
 2. Navigate to the project directory:
@@ -48,11 +48,6 @@ python manage.py runserver
 - Use the admin credentials to access the admin dashboard.
 - From the dashboard, you can manage books, members, and track borrowings and returns.
 - Regular users can search for books, view available books, and borrow or return books if logged in.
-
-
-## Screenshots
-
-https://github.com/nazil-the-professor/Liabrary-Management-System-using-Django-/raw/main/Captured/Captured.mp4
 
 
 ## Contributing
